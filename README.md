@@ -10,7 +10,7 @@
  **Explore My Work:**
 - [Toon Sportsfest](https://github.com/justinjones38/Toon-Sportsfest): A responsive web application featuring animations, form validation, and optimized layouts.
 
-🛠️**Technical Skills:**
+**Technical Skills:**
 - **Languages:** Python, JavaScript, HTML, CSS
 - **Technologies:** Git, GitHub, Visual Studio Code
 - **Responsive Design Tools:** CSS Grid, Flexbox
