@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Justin Jones!
+# 👋 Hi, I'm Justin!
 
  **Chemical Engineering graduate with a Master's in Criminal Justice**, transitioning into tech with expertise in **Python, JavaScript, HTML, and CSS**. Passionate about leveraging technology and analytical problem-solving to drive efficiency and create meaningful impact in **software development** or **data analysis** roles.
 
