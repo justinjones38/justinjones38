@@ -21,4 +21,3 @@
 
  **Let’s Connect!**
 - [LinkedIn](https://www.linkedin.com/in/justinjones38)
-- [GitHub](https://github.com/justinjones38)
