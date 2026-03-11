@@ -9,6 +9,7 @@
 
  **Explore My Work:**
 - [Toon Sportsfest](https://github.com/justinjones38/Toon-Sportsfest): A responsive web application featuring animations, form validation, and optimized layouts.
+- [Weather Application](https://github.com/justinjones38/Weather-App): A web application that allow users to view hourly and a 10 day weather forecast by fetching from the Open Meteo API.
 
 **Tech Stack**
 - **Languages:** Python, JavaScript, HTML, CSS
