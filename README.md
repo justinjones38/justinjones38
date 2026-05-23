@@ -8,7 +8,7 @@
 - Achieved a **4.00 GPA** in my Master's program while managing 2,000+ student records.
 
  **Explore My Work:**
-- [Toon Sportsfest](https://github.com/justinjones38/Toon-Sportsfest): A responsive web application featuring animations, form validation, and optimized layouts.
+- [Prototype Formula 1 Website](https://github.com/justinjones38/formula-1-website-prototype): A React Router web application that allow users to view the updated Formula 1 calendar, results and standings.
 - [Weather Application](https://github.com/justinjones38/Weather-App): A web application that allow users to view hourly and a 10 day weather forecast by fetching from the Open Meteo API.
 
 **Tech Stack**
