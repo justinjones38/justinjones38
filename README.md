@@ -7,7 +7,7 @@ Web developer transitioning into tech with experience in Python, HTML/CSS, JavaS
 - [Weather Application](https://github.com/justinjones38/weather-app) - fetches data from the Open-Meteo API to show current conditions, hourly forecasts, and a 10‑day forecast.
 - [Byte&Bits](https://github.com/justinjones38/byte-bits) - a retro-game forum using React, React Router and Supabase with user registration, login, protected routes, account dashboards, and public user profiles.
 
-Tech Stack
+## Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
