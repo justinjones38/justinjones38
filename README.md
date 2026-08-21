@@ -1,11 +1,12 @@
 # 👋 Hi! I'm Justin!
+Web Developer | React | JavaScript | Supabase
 
 Web developer transitioning into tech with experience in Python, HTML/CSS, JavaScript, React, React Router, Supabase, and API integration. I enjoy building clean and responsive web applications.
 
 ## Featured Projects
-- [Prototype Formula 1 Website](https://github.com/justinjones38/formula-1-website-prototype) - a responsive single-page Formula 1 dashboard using React and React Router, which shows live schedule, standings, and result data.
-- [Weather Application](https://github.com/justinjones38/weather-app) - fetches data from the Open-Meteo API to show current conditions, hourly forecasts, and a 10‑day forecast.
-- [Byte&Bits](https://github.com/justinjones38/byte-bits) - a retro-game forum using React, React Router and Supabase with user registration, login, protected routes, account dashboards, and public user profiles.
+- [Prototype Formula 1 Website](https://github.com/justinjones38/formula-1-website-prototype) - Responsive single-page Formula 1 dashboard using React and React Router to show live schedule, standings, and result data.
+- [Weather Application](https://github.com/justinjones38/weather-app) - Weather app that fetches data from the Open-Meteo API to show current conditions, hourly forecasts, and a 10‑day forecast.
+- [Byte&Bits](https://github.com/justinjones38/byte-bits) - Retro-game forum built with React, React Router, and Supabase with user registration, login, protected routes, account dashboards, and public user profiles.
 
 ## Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
