@@ -1,4 +1,4 @@
-# 👋 Welcome There, my name is Justin!
+# 👋 Hi! I'm Justin!
 
 Web developer transitioning into tech with experience in Python, HTML/CSS, JavaScript, React, React Router, Supabase, and API integration. I enjoy building clean and responsive web applications.
 
@@ -15,6 +15,11 @@ Web developer transitioning into tech with experience in Python, HTML/CSS, JavaS
 ![React Router](https://img.shields.io/badge/React_Router-%23CA4245.svg?style=for-the-badge&logo=react-router&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+## Currently Learning
+- Backend Technologies (Node.js, Express, and Postgre SQL)
+- Python data structure and algorithms
+- Improving Accessbility
 
 ## Let's Connect
 [LinkedIn](https://www.linkedin.com/in/justinjones38/)
