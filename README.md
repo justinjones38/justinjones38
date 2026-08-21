@@ -8,7 +8,13 @@ Web developer transitioning into tech with experience in Python, HTML/CSS, JavaS
 - [Byte&Bits](https://github.com/justinjones38/byte-bits) - a retro-game forum using React, React Router and Supabase with user registration, login, protected routes, account dashboards, and public user profiles.
 
 Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Router](https://img.shields.io/badge/React_Router-%23CA4245.svg?style=for-the-badge&logo=react-router&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ## Let's Connect
 [LinkedIn](https://www.linkedin.com/in/justinjones38/)
