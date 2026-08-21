@@ -24,7 +24,7 @@ Web developer transitioning into tech with experience in Python, HTML/CSS, JavaS
 - Improving accessibility
 
 ## Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logoColor=white&logoSize=auto)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logoColor=white&logoSize=auto)](https://www.linkedin.com/in/justinjones38/)
 
 ## GitHub Stats
 ![GitHub Stats](https://github-stats-extended.vercel.app/api?username=justinjones38&show_icons=true&include_all_commits=true&theme=dark)
