@@ -17,14 +17,15 @@ Web developer transitioning into tech with experience in Python, HTML/CSS, JavaS
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ## Currently Learning
-- Backend Technologies (Node.js, Express, and Postgre SQL)
-- Python data structure and algorithms
-- Improving Accessbility
+- Backend technologies (Node.js, Express, and PostgreSQL)
+- Python data structures and algorithms
+- Improving accessibility
 
 ## Let's Connect
-[LinkedIn](https://www.linkedin.com/in/justinjones38/)
+[![LinkedIn](https://skillicons.dev)](https://linkedin.com)
 
 ## GitHub Stats
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=justinjones38&show_icons=true&include_all_commits=true&theme=dark)](https://github-stats-extended.vercel.app/api?username=justinjones38&show_icons=true&include_all_commits=true&theme=dark)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=justinjones38&show_icons=true&include_all_commits=true&theme=dark)
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=justinjones38&langs_count=4&theme=dark)](https://github-stats-extended.vercel.app/api/top-langs?username=justinjones38&langs_count=4&theme=dark)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs?username=justinjones38&langs_count=4&theme=dark)
+
