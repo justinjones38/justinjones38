@@ -1,23 +1,9 @@
-# 👋 Hi, I'm Justin!
+# 👋 Welcome There, my name is Justin!
 
- **Chemical Engineering graduate with a Master's in Criminal Justice**, transitioning into tech with expertise in **Python, JavaScript, HTML, and CSS**. Passionate about leveraging technology and analytical problem-solving to drive efficiency and create meaningful impact in **software development** or **data analysis** roles.
+Web developer transitioning into tech with experience in Python, HTML/CSS, JavaScript, React, React Router, Supabase, and API integration. I enjoy building clean and responsive web applications.
 
- **Highlights:**
-- Reduced document processing time by 50% in a university administrative role.
-- Built responsive and engaging web applications using modern technologies like **HTML, CSS (Grid & Flexbox), and JavaScript**.
-- Achieved a **4.00 GPA** in my Master's program while managing 2,000+ student records.
+## Featured Projects
+- [**Prototype Formula 1 Website**](https://github.com/justinjones38/formula-1-website-prototype) - a responsive single-page Formula 1 dashboard using React and React Router, which shows live schedule, standings, and result data.
+- [**Weather Application**](https://github.com/justinjones38/weather-app) - fetches data from the Open-Meteo API to show current conditions, hourly forecasts, and a 10‑day forecast.
+- [**Byte&Bits**](https://github.com/justinjones38/byte-bits) - a retro-game forum using React, React Router and Supabase with user registration, login, protected routes, account dashboards, and public user profiles.
 
- **Explore My Work:**
-- [Prototype Formula 1 Website](https://github.com/justinjones38/formula-1-website-prototype): A React Router web application that allow users to view the updated Formula 1 calendar, results and standings.
-- [Weather Application](https://github.com/justinjones38/Weather-App): A web application that allow users to view hourly and a 10 day weather forecast by fetching from the Open Meteo API.
-
-**Tech Stack**
-- **Languages:** Python, JavaScript, HTML, CSS
-- **Technologies:** Git, GitHub, Visual Studio Code
-
- **Certifications:**
-- CodePath: Intro to Web Development (2025)
-- CS50: Introduction to Computer Science (2024)
-
- **Let’s Connect!**
-- [LinkedIn](https://www.linkedin.com/in/justinjones38)
