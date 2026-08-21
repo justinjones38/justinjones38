@@ -25,6 +25,4 @@ Web developer transitioning into tech with experience in Python, HTML/CSS, JavaS
 [LinkedIn](https://www.linkedin.com/in/justinjones38/)
 
 ## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=justinjones38&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=justinjones38&layout=compact&theme=tokyonight)
-
+[![Justin's GitHub stats](https://github-stats-extended.vercel.app/api?username=justinjones38)](https://github.com/stats-organization/github-stats-extended)
