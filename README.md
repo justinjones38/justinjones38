@@ -1,23 +1,32 @@
-# 👋 Hi, I'm Justin!
+# 👋 Hi! I'm Justin!
+**Web Developer | React | JavaScript | Supabase**
 
- **Chemical Engineering graduate with a Master's in Criminal Justice**, transitioning into tech with expertise in **Python, JavaScript, HTML, and CSS**. Passionate about leveraging technology and analytical problem-solving to drive efficiency and create meaningful impact in **software development** or **data analysis** roles.
+Web developer transitioning into tech with experience in Python, HTML/CSS, JavaScript, React, React Router, Supabase, and API integration. I enjoy building clean and responsive web applications.
 
- **Highlights:**
-- Reduced document processing time by 50% in a university administrative role.
-- Built responsive and engaging web applications using modern technologies like **HTML, CSS (Grid & Flexbox), and JavaScript**.
-- Achieved a **4.00 GPA** in my Master's program while managing 2,000+ student records.
+## Featured Projects
+- [Prototype Formula 1 Website](https://github.com/justinjones38/formula-1-website-prototype) - Responsive single-page Formula 1 dashboard using React and React Router to show live schedule, standings, and result data.
+- [Weather Application](https://github.com/justinjones38/weather-app) - Weather app that fetches data from the Open-Meteo API to show current conditions, hourly forecasts, and a 10‑day forecast.
+- [Byte&Bits](https://github.com/justinjones38/byte-bits) - Retro-game forum built with React, React Router, and Supabase with user registration, login, protected routes, account dashboards, and public user profiles.
 
- **Explore My Work:**
-- [Prototype Formula 1 Website](https://github.com/justinjones38/formula-1-website-prototype): A React Router web application that allow users to view the updated Formula 1 calendar, results and standings.
-- [Weather Application](https://github.com/justinjones38/Weather-App): A web application that allow users to view hourly and a 10 day weather forecast by fetching from the Open Meteo API.
+## Tech Stack
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Router](https://img.shields.io/badge/React_Router-%23CA4245.svg?style=for-the-badge&logo=react-router&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-**Tech Stack**
-- **Languages:** Python, JavaScript, HTML, CSS
-- **Technologies:** Git, GitHub, Visual Studio Code
+## Currently Learning
+- Backend technologies (Node.js, Express, and PostgreSQL)
+- Python data structures and algorithms
+- Improving accessibility
 
- **Certifications:**
-- CodePath: Intro to Web Development (2025)
-- CS50: Introduction to Computer Science (2024)
+## Let's Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/justinjones38/)
 
- **Let’s Connect!**
-- [LinkedIn](https://www.linkedin.com/in/justinjones38)
+## GitHub Stats
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=justinjones38&show_icons=true&include_all_commits=true&theme=dark)
+
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs?username=justinjones38&langs_count=4&theme=dark)
+
