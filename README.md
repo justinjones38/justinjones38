@@ -22,4 +22,9 @@ Web developer transitioning into tech with experience in Python, HTML/CSS, JavaS
 - Improving Accessbility
 
 ## Let's Connect
-[LinkedIn](https://www.linkedin.com/in/justinjones38/)
+![https://www.google.com/imgres?q=linkedin%20icon%20transparent&imgurl=https%3A%2F%2Fstatic.vecteezy.com%2Fsystem%2Fresources%2Fthumbnails%2F023%2F986%2F926%2Fsmall%2Flinkedin-logo-linkedin-logo-transparent-linkedin-icon-transparent-free-free-png.png&imgrefurl=https%3A%2F%2Fwww.vecteezy.com%2Ffree-png%2Ftransparent-linkedin-logo&docid=WObt_NWt9Y6UOM&tbnid=bAW0WVezxA1K4M&vet=12ahUKEwjgqsqrlLGWAxXrliYFHQduKgEQnPAOegQIQxAA..i&w=350&h=350&hcb=2&ved=2ahUKEwjgqsqrlLGWAxXrliYFHQduKgEQnPAOegQIQxAA](https://www.linkedin.com/in/justinjones38/)
+
+## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=justinjones38&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=justinjones38&layout=compact&theme=tokyonight)
+
