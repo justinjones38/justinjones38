@@ -1,5 +1,5 @@
 # 👋 Hi! I'm Justin!
-Web Developer | React | JavaScript | Supabase
+**Web Developer | React | JavaScript | Supabase**
 
 Web developer transitioning into tech with experience in Python, HTML/CSS, JavaScript, React, React Router, Supabase, and API integration. I enjoy building clean and responsive web applications.
 
